@@ -1,0 +1,6 @@
+aws:
+  s3:
+    bucket-name:
+    accessKey:
+    secretKey:
+    endpoint-url:
